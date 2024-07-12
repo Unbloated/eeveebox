@@ -1,3 +1,6 @@
+> [!CAUTION]
+> I seen that I uploaded only the webpage. I'm dumb. Terribly dumb.
+
 # EeveeBox archive
 Do you remember that janky website I made long time ago? EeveeBox, yeah, it's now open-source (MIT License). Do anything you want with my janky code.
 
